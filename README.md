@@ -1,23 +1,25 @@
-# 👋 Привет, я Илья!
+# My Portfolio
 
-Я прошёл курсы по Angular и 3D и активно работаю над проектами в этих областях. Ниже ты найдёшь примеры моих работ:
+Welcome to my portfolio! Below are some of the projects I have worked on, showcasing my skills in Angular, 3D graphics, and more.
 
----
+## Angular Projects
 
-## 🅰️ Angular Projects
+Here are some Angular projects I've worked on:
 
-- 🔗 [CRM Dashboard](https://github.com/ilyadev/angular-crm-dashboard) — административная панель с аутентификацией, графиками и динамическими таблицами.
-- 🔗 [Giphy Searcher](https://github.com/ilyadev/giphy-angular-app) — приложение для поиска гифок через Giphy API.
-- 🔗 [Task Manager](https://github.com/ilyadev/angular-task-manager) — система управления задачами.
+1. [**Getting Started with Angular**](https://angular-1-00f13c.netlify.app/) - A simple introduction to Angular.
+2. [**Country App**](https://3-country-app.netlify.app/) - A country information app built with Angular.
+3. [**Reactive Forms App**](https://5-reactive-forms-app.netlify.app/) - Angular app demonstrating reactive forms.
 
----
+## 3D Projects
 
-## 🧊 3D Projects
+Here are some of my 3D projects:
 
-- 🔗 [Three.js Solar System](https://github.com/ilyadev/threejs-solar-system) — солнечная система на Three.js.
-- 🔗 [3D Product Viewer](https://github.com/ilyadev/3d-product-viewer) — визуализатор объектов с возможностью вращения и приближения.
-- 🔗 [WebGL Experiments](https://github.com/ilyadev/webgl-playground) — набор визуальных экспериментов с шейдерами.
+1. [**Transform Objects**](https://4-transform-objects.netlify.app/) - 3D transformations with objects in WebGL.
+2. [**Textures**](https://10-textures.netlify.app/) - 3D texture mapping project.
+3. [**Galaxy Generator**](https://18-galaxy-generator.netlify.app/) - A dynamic galaxy simulation built with Three.js.
 
----
+## Contact
 
-📫 Связаться со мной: [Telegram](https://t.me/ilyadev) | [LinkedIn](https://linkedin.com/in/ilyadev)
+You can reach me at: [savinshin@gmail.com](mailto:savinshin@gmail.com)
+
+Feel free to explore my repositories for more!
