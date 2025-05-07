@@ -26,6 +26,7 @@ Here are some of my 3D projects:
 7. [**Haunted House**](https://16-aarne-bbt-kizaru-haunted-house.netlify.app/) - Haunted house 3D scene.
 8. [**Three.js Materials**](https://11-threejs-materials.netlify.app/) - Exploring materials in Three.js.
 9. [**3D Text**](https://12-3d-text-bc.netlify.app/) - 3D text effects with WebGL.
+10. [Scroll-Based Animation](https://19-scroll-based-animation.netlify.app) – animations triggered by scroll events, creating engaging and immersive visual effects.
    
 ## Contact 📧
 
