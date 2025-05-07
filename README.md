@@ -23,9 +23,9 @@ Here are some of my 3D projects:
 4. [**Lights**](https://14-lights.netlify.app/) - 3D lighting effects in WebGL.
 5. [**Shadows**](https://15-shadows.netlify.app/) - 3D shadows effects project with Three.js.
 6. [**Particles**](https://17-particles.netlify.app/) - Particle effects and animation with Three.js.
-7. [**Aarne BBT Kizaru Haunted House**](https://16-aarne-bbt-kizaru-haunted-house.netlify.app/) - Haunted house 3D scene.
+7. [**Haunted House**](https://16-aarne-bbt-kizaru-haunted-house.netlify.app/) - Haunted house 3D scene.
 8. [**Three.js Materials**](https://11-threejs-materials.netlify.app/) - Exploring materials in Three.js.
-9. [**3D Text BC**](https://12-3d-text-bc.netlify.app/) - 3D text effects with WebGL.
+9. [**3D Text**](https://12-3d-text-bc.netlify.app/) - 3D text effects with WebGL.
    
 ## Contact 📧
 
